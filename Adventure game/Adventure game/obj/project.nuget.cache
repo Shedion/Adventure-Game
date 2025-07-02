@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q04+bIA9vzA=",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\c#\\Adventure game\\Adventure game\\Adventure game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riord\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
